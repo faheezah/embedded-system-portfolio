@@ -22,7 +22,7 @@ Languages: C, C++, MicroPython
 
 Microcontroller: Raspberry Pi Pico 2W
 
-Simulation Tools: Tinkercad 
+Simulation Tools: Tinkercad, Proteus
 
 Engineering Tools: MATLAB (coming soon), Electronic and Electrical lab instrument 
 Concepts.
@@ -32,6 +32,7 @@ Concepts.
 📌 Raspberry Pi Pico 2W embedded projects
 📌 Electronics lab reports and practicals
 📌 MATLAB based modeling and signal processing (coming soon)
+
 Each project is documented as part of my learning process.
 
 📁 Featured Areas
@@ -42,12 +43,14 @@ Each project is documented as part of my learning process.
 📚 Resources → Notes, references, and learning materials
 
 📈 Current Focus
+
 Understanding embedded system fundamentals
 Improving circuit analysis skills
 Building consistency in project documentation
 Moving from simulation → real hardware systems
 
 ⚠️ Note
+
 This is a learning portfolio.
 Projects here may be simple or incomplete, but they reflect my growth, consistency, and engineering thinking over time.
 
@@ -56,6 +59,7 @@ Projects here may be simple or incomplete, but they reflect my growth, consisten
 To develop strong foundations in embedded systems, hardware design, and intelligent electronic systems through continuous hands on learning.
 
 📫 Let’s Connect
+
 LinkedIn: https://www.linkedin.com/in/faheezah-fasasi-b4b7a1354
 
 Email: f.f.faheezah@gmail.com
