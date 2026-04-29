@@ -3,9 +3,11 @@
 👋 Hi, I’m Fasazi Faheezah Funmilola 
 
 🎓 Electronic and Electrical Engineering Student
+
 🔧 Embedded Systems • Simulations • Hardware Learning Journey
 
 🧠 About Me
+
 I’m an engineering student passionate about understanding how real world electronic systems work from simple circuits to embedded systems and microcontrollers.
 I learn best by building, testing, breaking, and improving systems through hands on projects and simulations.
 Right now, I’m focused on growing in:
@@ -15,9 +17,13 @@ Electronics lab experimentation
 Simulation based learning
 
 ⚙️ What I’m Working With
+
 Languages: C, C++, MicroPython
+
 Microcontroller: Raspberry Pi Pico 2W
+
 Simulation Tools: Tinkercad 
+
 Engineering Tools: MATLAB (coming soon), Electronic and Electrical lab instrument 
 Concepts.
 
@@ -51,5 +57,6 @@ To develop strong foundations in embedded systems, hardware design, and intellig
 
 📫 Let’s Connect
 LinkedIn: https://www.linkedin.com/in/faheezah-fasasi-b4b7a1354
+
 Email: f.f.faheezah@gmail.com
 
